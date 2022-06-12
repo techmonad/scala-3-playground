@@ -1,7 +1,7 @@
 import Dependencies._
 
 ThisBuild / organization := "com.techmonad.playground"
-ThisBuild / scalaVersion := "3.1.0"
+ThisBuild / scalaVersion := "3.1.2"
 
 ThisBuild / scalacOptions ++=
   Seq(
